@@ -1,0 +1,3 @@
+Region,Network_zones,Network_Lines,z1,Region_Link,transmission_path_name,Line_Max_Flow_MW,Line_Max_Reinforcement_MW,Line_Reinforcement_Cost_per_MWyr,Line_Loss_Percentage
+QLD,z1,1,1,SQ_NNSW,QNI,955,955000,69444,0.010171
+,,2,1,SQ_NNSW,TERRA,100,100000,69444,0.001483
