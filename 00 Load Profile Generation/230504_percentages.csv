@@ -1,0 +1,6 @@
+﻿Charge Type,30% Flex,35% Flex,40% Flex,45% Flex,50% Flex
+Residential - Convenience Charging,0.32946535,0.30593211,0.28239887,0.25886563,0.23533239
+Residential - Highway Fast Charging,0.05523774,0.05129219,0.04734663,0.04340108,0.03945553
+Residential - Vehicle to Home,0.15764846,0.14638785,0.13512725,0.12386665,0.11260604
+Residential - Vehicle to Grid,0.15764846,0.14638785,0.13512725,0.12386665,0.11260604
+Residential - Coordinated Charging,0.3,0.35,0.4,0.45,0.5
