@@ -8,7 +8,7 @@ This repository contains three folders:
 3. Results Processing
 
 
-00 Load Profile Generation Folder:
+# 00 Load Profile Generation Folder:
 
 The Load Profile Generation folder contains all CSV files and scripts that were used to generate the contents of the
 Load_data.csv files. No CSV files should need to be altered in any way.
@@ -23,7 +23,7 @@ various different scripts to reduce computation time. The workflow is as follows
 5. Run charge_profile_sorting.py
 
 
-01 GenX Cases Folder:
+# 01 GenX Cases Folder:
 
 Thie GenX cases folder provides all of the files used to run each of the simulations used in my thesis report. The 
 file structure is such that each of the GenX cases are ready to be run as all relevant file fields are populated.
@@ -33,7 +33,7 @@ The only input file that differs between the GenX cases is the Load_data.csv fil
 The results of running the GenX simulations are also included in their respective GenX case folders.
 
 
-02 Results Processing Folder:
+# 02 Results Processing Folder:
 
 The Results processing folder contains all CSV files and scripts that were used to produce the figures in the 
 "Results and Discussion" section of my thesis, in addition to slider widgets that were used in my demonstration.
