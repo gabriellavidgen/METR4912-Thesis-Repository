@@ -1,0 +1,14 @@
+Date,20230512
+Input Name,AEMO_Q1+0
+Model Name,Q1+0
+Model Ident,AEMO
+QLD Zones,1
+NEM Zones,0
+Model Type,AEMO
+ESR,0
+CO2,0
+MCR,0
+TDR,0
+NE,1
+Server,Nectar
+Notes,Step Change scenerio.
