@@ -1,0 +1,12 @@
+Region,Resource,Zone,Cluster,R_ID,SubsidyRevenue
+QLD,QLD_coal,1,1,1,0.0
+QLD,QLD_coal_ccs,1,1,2,0.0
+QLD,QLD_CCGT,1,1,3,0.0
+QLD,QLD_CCGT_CCS,1,1,4,0.0
+QLD,QLD_OCGT,1,1,5,0.0
+QLD,QLD_wind,1,1,6,0.0
+QLD,QLD_solar,1,1,7,0.0
+QLD,QLD_biomass,1,1,8,0.0
+QLD,QLD_hydro,1,1,9,0.0
+QLD,QLD_PHES,1,1,10,0.0
+QLD,QLD_battery,1,1,11,0.0
