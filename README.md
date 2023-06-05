@@ -5,7 +5,7 @@ This repository contains three folders:
 
 1. 00 Load Profile Generation
 2. 01 GenX Cases
-3. Results Processing
+3. 02 Results Processing
 
 
 # 00 Load Profile Generation Folder:
